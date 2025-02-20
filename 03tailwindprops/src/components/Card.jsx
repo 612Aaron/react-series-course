@@ -30,6 +30,8 @@ function Card(props) {
 
    
     </div>
+
+    
   )
 }
 
